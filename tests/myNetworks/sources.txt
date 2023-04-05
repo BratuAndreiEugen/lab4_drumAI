@@ -1,0 +1,7 @@
+test1 - generat cu chatGPT
+test2 - http://www-personal.umich.edu/~mejn/netdata/ les miserables
+test3 - http://www-personal.umich.edu/~mejn/netdata/ co-authorships in network science
+test4 - http://www-personal.umich.edu/~mejn/netdata/ neural network
+test5 - http://www-personal.umich.edu/~mejn/netdata/ political blogs
+test6 - http://www-personal.umich.edu/~mejn/netdata/ world adjecenties
+polbooks - http://www-personal.umich.edu/~mejn/netdata/
